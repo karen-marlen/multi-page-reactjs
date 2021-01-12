@@ -6,7 +6,7 @@ import { Button } from "../../components/button";
 import { Marginer } from "../../components/marginer";
 import { deviceSize } from "../../components/responsive";
 
-import TopSectionBackgroundImg from "../../images/landing-page.ppg";
+import TopSectionBackgroundImg from "../../images/landing-page.jpg";
 import TheBestSpecialistsImg from "../../images/work-on.png";
 
 const TopSectionContainer = styled.div`
